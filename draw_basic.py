@@ -151,20 +151,6 @@ pygame.draw.rect(DISPLAYSURF, BROWN, (510,450, 50, 30))
 pygame.draw.rect(DISPLAYSURF, BROWN, (560,450, 50, 30))
 pygame.draw.rect(DISPLAYSURF, BROWN, (610,450, 50, 30))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 pixObj = pygame.PixelArray(DISPLAYSURF)
 pixObj[480][380] = BLACK
 pixObj[482][382] = BLACK
